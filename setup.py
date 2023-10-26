@@ -6,12 +6,12 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = 'tid-regression-model'
-DESCRIPTION = "Example regression model package from Train In Data."
-URL = "https://github.com/trainindata/testing-and-monitoring-ml-deployments"
-EMAIL = "christopher.samiullah@protonmail.com"
-AUTHOR = "ChristopherGS"
-REQUIRES_PYTHON = ">=3.6.0"
+NAME = 'KBS-titanic-classification-model'
+DESCRIPTION = "Example Titanic dataset classification model package from Train In Data."
+URL = "https://github.com/KB14MU/Titanic-production-model"
+EMAIL = "k.mukhtar@gmail.com"
+AUTHOR = "KB14U"
+REQUIRES_PYTHON = ">=3.7.0"
 
 
 # The rest you shouldn't have to touch too much :)
